@@ -8,18 +8,16 @@ redirect_from:
 ---
 # 👋 Hi, I'm Xuewen Luo
 
-I am a **Ph.D. student in Transportation Engineering** at the [University of Utah](https://www.utah.edu/) (since Aug 2025),  
-supervised by [Prof. Chenxi Liu](https://chenxiliu-dylan.github.io).  
+I am a **Ph.D. student in Transportation Engineering** at the [University of Utah](https://www.utah.edu/) (since Aug 2025), supervised by [Prof. Chenxi Liu](https://chenxiliu-dylan.github.io).  
 
-My research lies at the exciting intersection of **intelligent transportation systems and autonomous driving**.  
-I aim to explore how infrastructure intelligence and human-centered AI can make mobility **safer, smarter, and more sustainable**.  
+My research lies at the exciting intersection of **intelligent transportation systems and autonomous driving**. I aim to explore how infrastructure intelligence and human-centered AI can make mobility **safer, smarter, and more sustainable**.  
 
 ---
 
 ## 🔬 Research Interests
 
 - 🚦 Intelligent Transportation Systems (ITS)  
-- 🚗 Autonomous Driving (end-to-end learning, motion planning, evaluation, human-in-the-loop feedback)  
+- 🚗 Autonomous Driving (end-to-end, motion planning, human-in-the-loop evaluation)  
 - 🤖 Language Model Application for Transportation  
 
 ---
@@ -72,7 +70,7 @@ I aim to explore how infrastructure intelligence and human-centered AI can make 
 ## 📫 Connect with Me
 
 - ✉️ Email: [xuewen.luo@utah.edu](mailto:xuewen.luo@utah.edu)  
-- 🌐 Google Scholar: [Google Scholar]([https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://scholar.google.com/citations?user=QzVrwt4AAAAJ&hl=en&authuser=1))  
+- 🌐 Google Scholar: [Xuewen Luo]([https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343](https://scholar.google.com/citations?user=QzVrwt4AAAAJ&hl=en&authuser=1))  
 
 ---
 
