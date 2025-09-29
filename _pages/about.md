@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# 👋 Hi, I'm Xuewen Luo
+# 👋 Hi, I'm Xuewen(Snow) Luo
 
 I am a **Ph.D. student in Transportation Engineering** at the [University of Utah](https://www.utah.edu/) (since Aug 2025), supervised by [Prof. Chenxi Liu](https://chenxiliu-dylan.github.io).  
 
