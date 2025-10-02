@@ -23,24 +23,24 @@ repository               : "xuewen2025/xuewen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/IMG_8755.HEIC"
+  name             : "Xuewen Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD student in Transportation Engineering at the University of Utah, working on AI for transportation."
+  location         : "Salt Lake City, USA"
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  email            : "xuewen.luo@utah.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "xuewen2025"
+  googlescholar    : "https://scholar.google.com/citations?user=QzVrwt4AAAAJ&hl=en&authuser=1"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Xuewen Luo"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
