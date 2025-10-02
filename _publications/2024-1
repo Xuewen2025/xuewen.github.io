@@ -17,7 +17,7 @@ This paper introduces **PKRD-COT**, a unified chain-of-thought prompting strateg
 ## Pipeline Overview
 
 <p align="center">
-  <img src="images/publications/pkrd-cot-pipeline.png" alt="Pipeline of Pkrd-cot framework" width="700"/>
+  <img src="images/publication/Fig01-6801.pdf" alt="Pipeline of Pkrd-cot framework" width="700"/>
 </p>
 
 *Figure 1. The pipeline of Pkrd-cot framework, illustrating how multimodal sensor inputs are processed with unified chain-of-thought prompting for autonomous driving.*
