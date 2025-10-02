@@ -1,0 +1,46 @@
+---
+title: "Pkrd-cot: A unified chain-of-thought prompting for multi-modal large language models in autonomous driving"
+collection: publications
+category: conferences
+permalink: /publication/2024-12-02-pkrd-cot
+excerpt: 'We propose Pkrd-cot, a unified chain-of-thought prompting framework for multi-modal large language models in autonomous driving.'
+date: 2024-12-02
+venue: 'International Conference on Neural Information Processing'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-96-7008-6_5' # Springer DOI
+citation: 'Xuewen Luo, Fan Ding, Yinsheng Song, Xiaofeng Zhang, Junnyong Loo. (2024). "Pkrd-cot: A unified chain-of-thought prompting for multi-modal large language models in autonomous driving." <i>International Conference on Neural Information Processing</i>, pp. 62–76. Springer Nature Singapore.'
+---
+
+This paper introduces **PKRD-COT**, a unified chain-of-thought prompting strategy that enhances reasoning in multi-modal large language models (LLMs) for autonomous driving. By explicitly aligning sensor modalities with structured reasoning steps, Pkrd-cot improves decision-making performance in complex driving scenarios.
+
+---
+
+## Pipeline Overview
+
+<p align="center">
+  <img src="images/publications/pkrd-cot-pipeline.png" alt="Pipeline of Pkrd-cot framework" width="700"/>
+</p>
+
+*Figure 1. The pipeline of Pkrd-cot framework, illustrating how multimodal sensor inputs are processed with unified chain-of-thought prompting for autonomous driving.*
+
+---
+
+## Key Contributions
+- **Unified Chain-of-Thought Prompting**: Bridges multimodal sensor inputs with natural language reasoning steps.  
+- **Improved Interpretability**: Provides structured reasoning traces for autonomous driving decisions.  
+- **Empirical Performance**: Demonstrates consistent improvements on standard benchmarks compared to baseline prompting methods.
+
+---
+
+## Citation
+If you would like to cite this work:  
+
+```bibtex
+@inproceedings{luo2024pkrdcot,
+  title={Pkrd-cot: A unified chain-of-thought prompting for multi-modal large language models in autonomous driving},
+  author={Luo, Xuewen and Ding, Fan and Song, Yinsheng and Zhang, Xiaofeng and Loo, Junnyong},
+  booktitle={International Conference on Neural Information Processing},
+  pages={62--76},
+  year={2024},
+  publisher={Springer Nature Singapore}
+}
+
